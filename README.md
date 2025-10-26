@@ -64,7 +64,7 @@ I’m a **passionate developer** exploring Python, web development, and full-sta
 Some of my projects include:
 
 - **WASHTAG**: A web-based laundry management system using PHP, JS, SCSS, and MySQL.  
-- **Telegram Security Edu Bot**: Educational bot demonstrating card-format validation and safe payment data handling.  
+- **SPYCC CHECKER Bot**: Educational bot demonstrating card-format validation and safe payment data handling.  
 
 
 ---
