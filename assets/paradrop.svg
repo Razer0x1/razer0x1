@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="230" viewBox="0 0 420 230">
+  <rect width="420" height="230" rx="14" fill="#15151c"/>
+  <circle cx="380" cy="38" r="16" fill="#2b2b33"/>
+  <circle cx="380" cy="38" r="24" fill="none" stroke="#3a3a44" stroke-width="1.5" opacity="0.6"/>
+
+  <g fill="#23232c" opacity="0.9">
+    <rect x="-70" y="48" width="52" height="10" rx="5">
+      <animateTransform attributeName="transform" type="translate" values="0 0; 500 0" dur="9s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="-90" y="128" width="60" height="10" rx="5">
+      <animateTransform attributeName="transform" type="translate" values="0 0; 520 0" dur="13s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="-40" y="86" width="40" height="8" rx="4">
+      <animateTransform attributeName="transform" type="translate" values="0 0; 460 0" dur="11s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- SQUAD MEMBER 1 : RAZER0x1 -->
+  <g transform="translate(88,0)">
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0; 6 6; 0 0; -6 6; 0 0" dur="6s" repeatCount="indefinite"/>
+      <g>
+        <animateTransform attributeName="transform" type="rotate" values="-4 60 10; 4 60 10; -4 60 10" dur="5s" repeatCount="indefinite"/>
+        <path d="M20 44 Q60 8 100 44 Z" fill="#ffb900"/>
+        <path d="M60 8 Q100 44 100 44 Z" fill="#3060c0" opacity="0.85"/>
+        <line x1="24" y1="46" x2="52" y2="66" stroke="#c9a24a" stroke-width="2"/>
+        <line x1="96" y1="46" x2="68" y2="66" stroke="#c9a24a" stroke-width="2"/>
+        <line x1="30" y1="44" x2="52" y2="64" stroke="#8b7a3a" stroke-width="1.4" opacity="0.8"/>
+        <line x1="92" y1="44" x2="68" y2="64" stroke="#8b7a3a" stroke-width="1.4" opacity="0.8"/>
+        <rect x="49" y="64" width="22" height="20" rx="3" fill="#d9a066"/>
+        <rect x="45" y="60" width="30" height="10" rx="3" fill="#1d1d26"/>
+        <rect x="45" y="52" width="30" height="10" rx="3" fill="#2e3346"/>
+        <rect x="46" y="86" width="28" height="26" rx="4" fill="#5c5f46"/>
+        <rect x="41" y="88" width="7" height="18" rx="3" fill="#5c5f46"/>
+        <rect x="72" y="88" width="7" height="18" rx="3" fill="#5c5f46"/>
+        <rect x="36" y="70" width="9" height="12" rx="2" fill="#3a3d2a"/>
+        <rect x="49" y="112" width="9" height="14" rx="2" fill="#454833"/>
+        <rect x="62" y="112" width="9" height="14" rx="2" fill="#454833"/>
+        <rect x="47" y="126" width="13" height="5" rx="2" fill="#20202a"/>
+        <rect x="60" y="126" width="13" height="5" rx="2" fill="#20202a"/>
+      </g>
+      <rect x="26" y="150" width="68" height="16" rx="4" fill="#20202a"/>
+      <text x="60" y="161" font-family="'Courier New', monospace" font-size="9" font-weight="bold" fill="#ffb900" text-anchor="middle">RAZER0x1</text>
+    </g>
+  </g>
+
+  <!-- SQUAD MEMBER 2 -->
+  <g transform="translate(252,26)">
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0; -6 7; 0 0; 6 7; 0 0" dur="6s" repeatCount="indefinite"/>
+      <g>
+        <animateTransform attributeName="transform" type="rotate" values="4 60 10; -4 60 10; 4 60 10" dur="5s" repeatCount="indefinite"/>
+        <path d="M20 44 Q60 8 100 44 Z" fill="#3060c0"/>
+        <path d="M60 8 Q100 44 100 44 Z" fill="#ffb900" opacity="0.9"/>
+        <line x1="24" y1="46" x2="52" y2="66" stroke="#7d8fc4" stroke-width="2"/>
+        <line x1="96" y1="46" x2="68" y2="66" stroke="#7d8fc4" stroke-width="2"/>
+        <line x1="30" y1="44" x2="52" y2="64" stroke="#5b6ea6" stroke-width="1.4" opacity="0.8"/>
+        <line x1="92" y1="44" x2="68" y2="64" stroke="#5b6ea6" stroke-width="1.4" opacity="0.8"/>
+        <rect x="49" y="64" width="22" height="20" rx="3" fill="#b07f4c"/>
+        <rect x="45" y="60" width="30" height="10" rx="3" fill="#1d1d26"/>
+        <rect x="45" y="52" width="30" height="10" rx="3" fill="#2e3346"/>
+        <rect x="46" y="86" width="28" height="26" rx="4" fill="#4b4e3a"/>
+        <rect x="41" y="88" width="7" height="18" rx="3" fill="#4b4e3a"/>
+        <rect x="72" y="88" width="7" height="18" rx="3" fill="#4b4e3a"/>
+        <rect x="57" y="94" width="10" height="20" rx="2" fill="#20202a"/>
+        <rect x="49" y="112" width="9" height="14" rx="2" fill="#3c3f2d"/>
+        <rect x="62" y="112" width="9" height="14" rx="2" fill="#3c3f2d"/>
+        <rect x="47" y="126" width="13" height="5" rx="2" fill="#191922"/>
+        <rect x="60" y="126" width="13" height="5" rx="2" fill="#191922"/>
+      </g>
+      <rect x="26" y="150" width="68" height="16" rx="4" fill="#20202a"/>
+      <text x="60" y="161" font-family="'Courier New', monospace" font-size="9" font-weight="bold" fill="#9dd4ff" text-anchor="middle">SQUADMATE</text>
+    </g>
+  </g>
+
+  <!-- ground -->
+  <rect x="0" y="196" width="420" height="34" fill="#1e2632"/>
+  <rect x="0" y="196" width="420" height="4" fill="#2e4157"/>
+  <text x="210" y="218" font-family="'Courier New', monospace" font-size="11" fill="#5d7d9a" text-anchor="middle" letter-spacing="4">ERANGEL CLASSIC — DROP ZONE ALPHA</text>
+</svg>

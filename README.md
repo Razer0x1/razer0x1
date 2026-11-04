@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:15151c,45:2b2b33,100:ffb900&height=210&section=header&text=BHARGAV%20HALDIPUR&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Technical%20Support%20Engineer%20%E2%86%92%20Backend%20Developer%20%7C%20Winner%20Winner%20Chicken%20Dinner&descSize=16&descAlignY=56&descColor=ffb900&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:15151c,45:2b2b33,100:ffb900&height=200&section=header&text=BHARGAV%20HALDIPUR&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Technical%20Support%20Engineer%20%E2%86%92%20Backend%20Developer%20%7C%204%20Matches%2C%201%20Squad%2C%20Zero%20Knocks&descSize=16&descAlignY=56&descColor=ffb900&animation=fadeIn" />
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFB900&center=true&vCenter=true&width=640&lines=Parachuting+into+production+%F0%9F%AA%82;Looting+Python+%C2%B7+SQL+%C2%B7+REST+APIs+%F0%9F%8E%92;Defusing+incidents+at+BlackBuck+%F0%9F%94%A7;Winner+winner+chicken+dinner+%F0%9F%8D%97" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=900&color=FFB900&center=true&vCenter=true&width=680&lines=Parachuting+into+production+%F0%9F%AA%82;Looting+Python+%C2%B7+SQL+%C2%B7+REST+APIs+%F0%9F%8E%92;Holding+frontline+ops+at+BlackBuck+%F0%9F%8E%A7;Test-sweeping+builds+before+they+drop+%F0%9F%A7%AA;Winner+winner+chicken+dinner+%F0%9F%8D%97" alt="Typing SVG" />
 
 </div>
 
@@ -21,10 +21,22 @@
 
 </div>
 
+<div align="center">
+
+<img width="440" src="./assets/paradrop.svg" alt="PUBG-style pixel squad parachuting into Erangel" />
+
+</div>
+
 ---
 
 > 🪂 **The blue zone is closing in — 100 players drop, only one walks out.**
-> I approach every ticket, incident and release the same way: Recon, Loot, Rotate, Win.
+> I run every ticket, incident, build and release the same way: **Recon, Loot, Rotate, Win.**
+
+<div align="center">
+
+<img width="440" src="./assets/zone.svg" alt="Animated PUBG safe-zone radar with red zone and player marker" />
+
+</div>
 
 ---
 
@@ -32,27 +44,27 @@
 
 ```python
 class Player:
-    ign         = "Razer0x1"
-    real_name   = "Bhargav Haldipur"
-    role        = "Support Engineer → Fragger (Backend)"  # support who can frag now
-    squad       = "BlackBuck GPS Fleet Ops"
-    drop_zone   = "Bengaluru, Karnataka, India 🇮🇳"
+    ign          = "Razer0x1"
+    real_name    = "Bhargav Haldipur"
+    role         = "Support Engineer → Fragger (Backend)"   # support who can frag too
+    drop_zone    = "Bengaluru, Karnataka, India 🇮🇳"
 
-    loadout = [
-        "Python", "PHP", "MySQL", "JavaScript", "REST APIs",
-        "FastAPI", "Docker", "SQLAlchemy",
-    ]
-    airdrops_claimed   = ["bharat-biz-os 🇮🇳", "Northwind Helpdesk 🎫", "WASHTAG 👕", "Portfolio 🌐"]
+    loadout = ["Python", "PHP", "MySQL", "JavaScript", "REST APIs",
+               "FastAPI", "SQLAlchemy", "Docker"]
+
+    matches_played = {          # career log (full report below)
+        "BlackBuck":  "Feb 2024 – Present",
+        "ARSS":       "Feb 2025 – Present",
+        "Effort":     "2025",
+        "Cognifyz":   "Aug 2025 – Sep 2025",
+    }
+    battle_rewards = 3          # certificates unlocked 🏅
+    edu_unlocks    = ["BCA (CGPA 7.75)", "High School"]
+
     currently_training = ["System Design", "TypeScript", "Backend Architecture"]
     current_tier       = "Diamond III → grinding for CONQUEROR (Backend Engineering)"
-    fun_fact           = "Heals at work, heals side projects at 2AM 🌙"
+    fun_fact           = "Heals the squad at work and heals side projects at 2AM 🌙"
 ```
-
-- 🎧 **1+ year** in the hot seat at BlackBuck — SQL forensics, API log traces, incident management for live GPS fleet ops
-- 🌐 Full-stack builds in **PHP, Python, MySQL, React, JavaScript**
-- 📦 Recent drops: production-grade **FastAPI** backends with tests, Alembic migrations, Docker
-- 🎯 Objective: **Software / Backend Engineering** at a product company
-- 📬 Direct comms: **bhargav.haldipur2004@gmail.com**
 
 ---
 
@@ -102,7 +114,7 @@ class Player:
 > React 19 · TypeScript · Supabase · Gemini AI · FastAPI
 
 **AI-powered business OS for Indian MSMEs.**
-CRM, GST billing, inventory, analytics & AI insights in one platform — now with a production-twinned **async FastAPI backend** (SQLAlchemy 2.0, Alembic, Docker, 30 tests green).
+CRM, GST billing, inventory, analytics & AI insights — now with a production-twinned **async FastAPI backend** (SQLAlchemy 2.0, Alembic, Docker, 30 tests green).
 
 `React` `TypeScript` `Supabase` `Gemini AI` `FastAPI`
 
@@ -147,6 +159,69 @@ URL health checks with SSRF hardening, rate limiting, honeypot escaping, contact
 
 ---
 
+## 🏆 Match History (Experience)
+
+<div align="center">
+
+| Result | Role | Squad (Org) | Season |
+|---|------|-------------|--------|
+| 🟩 **Active** | **Technical Support Engineer** | **BlackBuck Ltd.**, Bengaluru | Feb 2024 – Present |
+| 🟩 **Active** | **Software Tester** | **ARSS Software Solution** | Feb 2025 – Present |
+| 🟨 **Cleared** | **Associate Category Support** | **Effort Consultancy Services** | 2025 |
+| 🟨 **Top 10** | **Web Development Intern** | **Cognifyz Technologies** (remote) | Aug 2025 – Sep 2025 |
+
+</div>
+
+- 🎧 **BlackBuck** — frontline ops for live GPS fleets: SQL digs on shipment data, API log traces, incident queues. Never left the final circle in 1+ year.
+- 🧪 **ARSS Software Solution** — sweep builds before they drop into prod: manual test scenarios, regression checklists, repro-clean bug reports.
+- 📦 **Effort Consultancy Services** — category support ops: ticket triage, follow-ups, and data upkeep in tight daily rotations.
+- 💻 **Cognifyz Technologies** — web dev internship: CSS/JS feature fixes, UI polish, early Python reps. Earned the internship certificate.
+
+---
+
+## 🏅 Battle Rewards (Licenses & Certifications)
+
+<table>
+<tr><td width="60%" valign="top">
+
+- 🏅 **GST Exchange Inclusion 2025 — Certificate of Participation** · *IICSM · 2025* — team-collab hackathon-style participation across a 12+ member cohort
+- 🏅 **Deloitte Australia — Data Analytics Job Simulation** · *Forage · Jan 2025* — data analysis, dashboards & insight-telling simulation track
+- 🏅 **Web Development Internship Certificate** · *Cognifyz Technologies · 2025*
+
+</td><td width="40%" valign="top">
+
+```
+  [🏆.EXE RUNNING]
+  3/3 rewards collected
+  progress ██████████ 100%
+
+  next unlock:
+  · Backend eng role 🎯
+  · Conqueror tier 🏆
+```
+
+</td></tr>
+</table>
+
+---
+
+## 🎓 Training Grounds (Education)
+
+- 🎓 **BCA — Computer Applications** · *Computer Education & Programming College, Karnataka* · **2021–2024** · CGPA **7.75/10**
+- 🏫 **St. Joseph High School, Karnataka** · **2017–2020**
+
+```
+RANK PROGRESS
+─────────────────────────────────────────────
+Python          ████████████████░░░░  ·  Diamond
+SQL / Databases ███████████████░░░░░  ·  Diamond
+FastAPI backend ████████████░░░░░░░░  ·  Platinum
+System Design   █████████░░░░░░░░░░░  ·  Gold
+                grinding → CONQUEROR 🏆
+```
+
+---
+
 ## 📊 Stat Tracker
 
 <div align="center">
@@ -168,35 +243,21 @@ URL health checks with SSRF hardening, rate limiting, honeypot escaping, contact
 
 </div>
 
----
-
-## 🏆 Match History
-
 <div align="center">
 
-| Result | Role | Squad (Company) | Season |
-|---|------|-----------------|--------|
-| 🟩 **Top 1** | Technical Support Engineer | BlackBuck Ltd., Bengaluru | Feb 2024 – Present |
-| 🟨 **Top 10** | Web Development Intern | Cognifyz Technologies, Remote | Aug 2025 – Sep 2025 |
+### 🏅 Achievements Unlocked
+
+<img src="https://github-profile-trophy.vercel.app/?username=Razer0x1&theme=tokyonight&no-frame=true&margin-w=6&column=7" alt="GitHub profile trophies" />
 
 </div>
 
----
+<div align="center">
 
-## 🎓 Training Grounds
+### 🐍 The Snake Survives On My Commits
 
-🎓 **BCA — Bachelor of Computer Applications** · CGPA **7.75/10** · 2021–2024
-📜 **Web Development Internship Certificate** · Cognifyz Technologies · 2025
+<img src="https://raw.githubusercontent.com/Razer0x1/Razer0x1/output/github-contribution-grid-snake.svg" alt="Animated contribution snake eating the contribution graph in PUBG gold" width="100%" />
 
-```
-RANK PROGRESS
-─────────────────────────────────────────────
-Python        ████████████████░░░░  ·  Diamond
-SQL / Databases ███████████████░░░░  ·  Diamond
-FastAPI backend ████████████░░░░░░░  ·  Platinum
-System Design    █████████--------------  ·  Gold
-                  grinding → CONQUEROR 🏆
-```
+</div>
 
 ---
 
@@ -215,7 +276,11 @@ Hiring for **Backend / Software Engineering**? Building something worth dropping
 
 <div align="center">
 
-# 🍗 WINNER WINNER CHICKEN DINNER 🍗
+<img width="640" src="./assets/chickendinner.svg" alt="Animated WINNER WINNER CHICKEN DINNER banner with confetti and pixel chicken" />
+
+</div>
+
+<div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Razer0x1&color=FFB900&style=for-the-badge&label=PROFILE+VIEWS)
 
